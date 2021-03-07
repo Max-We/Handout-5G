@@ -41,6 +41,8 @@ img {
 .card {
   filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.3));
   border-radius: 25px;
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
 }
 
 h2 {
