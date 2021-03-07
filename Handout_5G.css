@@ -1,0 +1,56 @@
+#WlanRichtfunk {
+  height: 25%;
+  width: 25%;
+}
+
+#RichtfunkLinie {
+  visibility: hidden;
+}
+
+.cls-1,.cls-2{
+  fill:none;
+  stroke-linecap:round;
+  stroke-miterlimit:10;
+  stroke-width:25px;
+}
+
+.cls-1{
+  stroke:#b2b2b2;
+}
+
+.cls-2{
+  stroke:#1d1d1b;
+}
+
+.animation-container {
+  margin-top: 10px;
+  text-align: center;
+}
+
+h1,h2,h3,h4,h5 {
+  text-align: center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 2vw;
+}
+
+.card {
+  filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.3));
+  border-radius: 25px;
+}
+
+h2 {
+  color: #007bff;
+}
+
+h3 {
+  margin-top: 2vw;
+}
+
+h2 {
+  margin-top: 2vw;
+}
